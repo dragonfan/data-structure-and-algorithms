@@ -1,4 +1,4 @@
-package example.fhl.com.java_algorithm;
+package com.fhl.example;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
