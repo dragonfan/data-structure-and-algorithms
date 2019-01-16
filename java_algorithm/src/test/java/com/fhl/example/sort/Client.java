@@ -86,6 +86,8 @@ public class Client {
                     index = j;
                 }
             }
+
+
             if (index != i) {
                 //交换
                 int temp = array[index];
